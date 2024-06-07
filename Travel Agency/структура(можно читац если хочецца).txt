@@ -1,9 +1,9 @@
 tour-agency/
-├── index.html
-├── register.html
-├── login.html
-├── contact.html
-├── services.html
+├── travel agency main.html
+├── travel agency reg.html
+├── travel agency login.html
+├── travel agency contact.html
+├── travel agency catalog.html
 ├── css/
 │   ├── normalize.css
 │   └── styles.css
